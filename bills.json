@@ -1,0 +1,1429 @@
+[
+    {
+        "User ID": "698c209e-25c3-4506-8cee-72e449796045",
+        "Date and Time": "2024-11-10 08:14:27",
+        "Items": [
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2003,
+                "Part": "Brake Pads",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2003,
+                "Part": "Front Bumper",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 36855.1
+    },
+    {
+        "User ID": "698c209e-25c3-4506-8cee-72e449796045",
+        "Date and Time": "2024-11-10 08:15:55",
+        "Items": [
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2003,
+                "Part": "Radiator",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2003,
+                "Part": "Rear Bumper",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2003,
+                "Part": "Brake Pads",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2003,
+                "Part": "Headlight Assembly",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2003,
+                "Part": "Tire",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2003,
+                "Part": "Front Bumper",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 110565.3
+    },
+    {
+        "User ID": "c5a7286a-1412-4ba7-8c7e-0086114716de",
+        "Date and Time": "2024-11-10 10:15:45",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2024,
+                "Part": "Radiator",
+                "Price": 20138.04
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2024,
+                "Part": "Engine Oil",
+                "Price": 20138.04
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2024,
+                "Part": "Tire",
+                "Price": 20138.04
+            }
+        ],
+        "Total Cost": 60414.12
+    },
+    {
+        "User ID": "035ca3dc-e5b7-4052-83ec-e7db591aa60e",
+        "Date and Time": "2024-11-10 10:25:53",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Polo",
+                "Year": 2003,
+                "Part": "Windshield",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 18427.55
+    },
+    {
+        "User ID": "45c767c8-ec2c-4d05-9d1f-befd365ffbba",
+        "Date and Time": "2024-11-16 12:59:58",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2003,
+                "Part": "Side Mirror",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2003,
+                "Part": "Rear Bumper",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2003,
+                "Part": "Headlight Assembly",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 55282.649999999994
+    },
+    {
+        "User ID": "267a84d3-c91e-473f-a6e6-8a1d841d42af",
+        "Date and Time": "2024-12-12 23:04:51",
+        "Items": [
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Baleno",
+                "Year": 2005,
+                "Part": "Brake Pads",
+                "Price": 11478.2215
+            }
+        ],
+        "Total Cost": 11478.2215
+    },
+    {
+        "User ID": "22f1f805-e2a9-4346-b3de-9514406b7f96",
+        "Date and Time": "2024-12-12 23:12:38",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Tiguan",
+                "Year": 2003,
+                "Part": "Windshield",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 18427.55
+    },
+    {
+        "User ID": "d06a5622-171f-4ebb-b49b-9a1262554c15",
+        "Date and Time": "2024-12-12 23:14:41",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Polo",
+                "Year": 2023,
+                "Part": "Radiator",
+                "Price": 18910.39
+            },
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Polo",
+                "Year": 2023,
+                "Part": "Rear Bumper",
+                "Price": 18910.39
+            }
+        ],
+        "Total Cost": 37820.78
+    },
+    {
+        "User ID": "266b68aa-3061-486b-b12a-755883a863cb",
+        "Date and Time": "2024-12-12 23:21:11",
+        "Items": [
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2021,
+                "Part": "Front Bumper",
+                "Price": 15793.96
+            }
+        ],
+        "Total Cost": 15793.96
+    },
+    {
+        "User ID": "f61b121d-e317-4d55-a539-8db6470c54d8",
+        "Date and Time": "2025-01-06 23:27:47",
+        "Items": [
+            {
+                "Car Make": "Renault",
+                "Car Model": "Triber",
+                "Year": 2020,
+                "Part": "Windshield",
+                "Price": 14531.78
+            },
+            {
+                "Car Make": "Renault",
+                "Car Model": "Triber",
+                "Year": 2020,
+                "Part": "Battery",
+                "Price": 14531.78
+            }
+        ],
+        "Total Cost": 29063.560000000005
+    },
+    {
+        "User ID": "d5b24380-057c-4986-80f4-12c22fc81214",
+        "Date and Time": "2025-01-06 23:55:24",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Scorpio",
+                "Year": 2003,
+                "Part": "Tire",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Scorpio",
+                "Year": 2003,
+                "Part": "Side Mirror",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 36855.1
+    },
+    {
+        "User ID": "8c6f0dba-6382-463b-a3f1-0ef96e77064e",
+        "Date and Time": "2025-01-06 23:59:01",
+        "Items": [
+            {
+                "Car Make": "Honda",
+                "Car Model": "City",
+                "Year": 2003,
+                "Part": "Battery",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "City",
+                "Year": 2003,
+                "Part": "Radiator",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 36855.1
+    },
+    {
+        "User ID": "91a4e230-50f4-4362-97b0-b0ce9f695618",
+        "Date and Time": "2025-01-07 00:50:48",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "Figo",
+                "Year": 2001,
+                "Part": "Engine Oil",
+                "Price": 13287.47
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "Figo",
+                "Year": 2001,
+                "Part": "Side Mirror",
+                "Price": 13287.47
+            }
+        ],
+        "Total Cost": 26574.94
+    },
+    {
+        "User ID": "e2d56ac4-da58-480a-a2d6-fe070059cc67",
+        "Date and Time": "2025-01-07 00:59:05",
+        "Items": [
+            {
+                "Car Make": "Honda",
+                "Car Model": "Jazz",
+                "Year": 2004,
+                "Part": "Tire",
+                "Price": 14779.150666666666
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Jazz",
+                "Year": 2004,
+                "Part": "Radiator",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 29558.301333333333
+    },
+    {
+        "User ID": "cf285e86-4521-47a0-9091-0efa2e9194db",
+        "Date and Time": "2025-01-07 01:06:25",
+        "Items": [
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Venue",
+                "Year": 2022,
+                "Part": "Side Mirror",
+                "Price": 21624.98
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Venue",
+                "Year": 2022,
+                "Part": "Tire",
+                "Price": 21624.98
+            }
+        ],
+        "Total Cost": 43249.96
+    },
+    {
+        "User ID": "2c451862-8096-4d5a-97dd-63d431024993",
+        "Date and Time": "2025-01-07 01:08:51",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2019,
+                "Part": "Tire",
+                "Price": 15412.15
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2019,
+                "Part": "Brake Pads",
+                "Price": 15412.15
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2019,
+                "Part": "Side Mirror",
+                "Price": 15412.15
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2019,
+                "Part": "Headlight Assembly",
+                "Price": 15412.15
+            }
+        ],
+        "Total Cost": 61648.6
+    },
+    {
+        "User ID": "8c7613e8-a27e-437e-8712-c4acb92af112",
+        "Date and Time": "2025-01-07 01:11:42",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "Figo",
+                "Year": 2003,
+                "Part": "Tire",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "Figo",
+                "Year": 2003,
+                "Part": "Side Mirror",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 36855.1
+    },
+    {
+        "User ID": "1c526db1-381a-4d40-8c08-f9669d7a2213",
+        "Date and Time": "2025-01-07 01:12:56",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Polo",
+                "Year": 2005,
+                "Part": "Tire",
+                "Price": 11478.2215
+            }
+        ],
+        "Total Cost": 11478.2215
+    },
+    {
+        "User ID": "4ca249bc-a9dc-4595-a81d-9f8923ce8cb4",
+        "Date and Time": "2025-01-07 01:15:43",
+        "Items": [
+            {
+                "Car Make": "Tata",
+                "Car Model": "Nexon",
+                "Year": 2006,
+                "Part": "Windshield",
+                "Price": 18048.3
+            }
+        ],
+        "Total Cost": 18048.3
+    },
+    {
+        "User ID": "621e1fb2-7150-4616-9c64-ec50a0055392",
+        "Date and Time": "2025-01-07 01:19:18",
+        "Items": [
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Alto",
+                "Year": 2006,
+                "Part": "Engine Oil",
+                "Price": 18048.3
+            }
+        ],
+        "Total Cost": 18048.3
+    },
+    {
+        "User ID": "ffd657d7-97d5-417b-b6ac-f21c4a1a9b64",
+        "Date and Time": "2025-01-07 01:27:05",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Thar",
+                "Year": 2005,
+                "Part": "Battery",
+                "Price": 11478.2215
+            }
+        ],
+        "Total Cost": 11478.2215
+    },
+    {
+        "User ID": "7015437f-0815-4930-b7ca-255ae3009ba9",
+        "Date and Time": "2025-01-07 01:35:37",
+        "Items": [
+            {
+                "Car Make": "Tata",
+                "Car Model": "Tiago",
+                "Year": 2004,
+                "Part": "Tire",
+                "Price": 14779.150666666666
+            },
+            {
+                "Car Make": "Tata",
+                "Car Model": "Tiago",
+                "Year": 2004,
+                "Part": "Brake Pads",
+                "Price": 14779.150666666666
+            },
+            {
+                "Car Make": "Tata",
+                "Car Model": "Tiago",
+                "Year": 2004,
+                "Part": "Side Mirror",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 44337.452
+    },
+    {
+        "User ID": "c97e77ae-2035-4e1a-ab82-c91ba836b5c7",
+        "Date and Time": "2025-01-07 01:41:58",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "Endeavour",
+                "Year": 2005,
+                "Part": "Engine Oil",
+                "Price": 11478.2215
+            }
+        ],
+        "Total Cost": 11478.2215
+    },
+    {
+        "User ID": "438edeb0-ab47-4e37-823b-715e55cd93e6",
+        "Date and Time": "2025-01-07 01:54:48",
+        "Items": [
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2017,
+                "Part": "Side Mirror",
+                "Price": 15588.08
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2017,
+                "Part": "Tire",
+                "Price": 15588.08
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2017,
+                "Part": "Windshield",
+                "Price": 15588.08
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2017,
+                "Part": "Brake Pads",
+                "Price": 15588.08
+            }
+        ],
+        "Total Cost": 62352.32
+    },
+    {
+        "User ID": "40d8c565-3a72-474a-8e90-08ef1220b80c",
+        "Date and Time": "2025-01-08 06:24:04",
+        "Items": [
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2023,
+                "Part": "Tire",
+                "Price": 18910.39
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2023,
+                "Part": "Side Mirror",
+                "Price": 18910.39
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2023,
+                "Part": "Brake Pads",
+                "Price": 18910.39
+            }
+        ],
+        "Total Cost": 56731.17
+    },
+    {
+        "User ID": "f91791a7-9556-44e0-b01c-f040ea4d2d53",
+        "Date and Time": "2025-01-08 11:20:57",
+        "Items": [
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Swift",
+                "Year": 2005,
+                "Part": "Tire",
+                "Price": 11478.2215
+            },
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Swift",
+                "Year": 2005,
+                "Part": "Headlight Assembly",
+                "Price": 11478.2215
+            }
+        ],
+        "Total Cost": 22956.443
+    },
+    {
+        "User ID": "29d30287-401d-4e58-a265-85baaad4e5ab",
+        "Date and Time": "2025-01-08 11:28:28",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2005,
+                "Part": "Headlight Assembly",
+                "Price": 11478.2215
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2005,
+                "Part": "Tire",
+                "Price": 11478.2215
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2005,
+                "Part": "Front Bumper",
+                "Price": 11478.2215
+            }
+        ],
+        "Total Cost": 34434.6645
+    },
+    {
+        "User ID": "05f25ba6-b228-4507-8391-dcef97763416",
+        "Date and Time": "2025-01-08 11:45:11",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Scorpio",
+                "Year": 2021,
+                "Part": "Rear Bumper",
+                "Price": 15793.96
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Scorpio",
+                "Year": 2021,
+                "Part": "Windshield",
+                "Price": 15793.96
+            }
+        ],
+        "Total Cost": 31587.92
+    },
+    {
+        "User ID": "1a8a6422-d085-499d-b62e-a8248cb199ef",
+        "Date and Time": "2025-01-08 17:15:43",
+        "Items": [
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2002,
+                "Part": "Front Bumper",
+                "Price": 15387.26
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "Creta",
+                "Year": 2002,
+                "Part": "Battery",
+                "Price": 15387.26
+            }
+        ],
+        "Total Cost": 30774.52
+    },
+    {
+        "User ID": "5f9af375-90a3-47ca-a529-fbd4113fa353",
+        "Date and Time": "2025-01-08 17:41:22",
+        "Items": [
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "i20",
+                "Year": 2003,
+                "Part": "Front Bumper",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "i20",
+                "Year": 2003,
+                "Part": "Radiator",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "i20",
+                "Year": 2003,
+                "Part": "Windshield",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 55282.649999999994
+    },
+    {
+        "User ID": "582057c6-2a6f-4198-8981-cd9e1e1b964c",
+        "Date and Time": "2025-01-08 17:48:29",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Tiguan",
+                "Year": 2004,
+                "Part": "Brake Pads",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 14779.150666666666
+    },
+    {
+        "User ID": "67ddf0c0-48ba-42bd-91eb-4b51bffc29d5",
+        "Date and Time": "2025-01-08 17:59:05",
+        "Items": [
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2004,
+                "Part": "Rear Bumper",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 14779.150666666666
+    },
+    {
+        "User ID": "2e6ad751-c09f-45e2-bedd-67722647a6af",
+        "Date and Time": "2025-01-09 09:59:51",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Thar",
+                "Year": 2009,
+                "Part": "Front Bumper",
+                "Price": 15473.9
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Thar",
+                "Year": 2009,
+                "Part": "Battery",
+                "Price": 15473.9
+            }
+        ],
+        "Total Cost": 30947.8
+    },
+    {
+        "User ID": "78cec879-a6f9-4404-8e8c-3413fe979d7b",
+        "Date and Time": "2025-01-12 15:33:48",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "Figo",
+                "Year": 2001,
+                "Part": "Radiator",
+                "Price": 13287.47
+            }
+        ],
+        "Total Cost": 13287.47
+    },
+    {
+        "User ID": "fa46b5fc-9aa5-465f-9595-9e69ec2d572a",
+        "Date and Time": "2025-01-12 15:53:20",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "Figo",
+                "Year": 2004,
+                "Part": "Radiator",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 14779.150666666666
+    },
+    {
+        "User ID": "d9e57fbb-b23f-4561-8ad2-ab966a850aa0",
+        "Date and Time": "2025-01-19 20:25:42",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "EcoSport",
+                "Year": 2021,
+                "Part": "Side Mirror",
+                "Price": 15793.96
+            }
+        ],
+        "Total Cost": 15793.96
+    },
+    {
+        "User ID": "e7f9223e-f002-4939-9147-c1b0252062a3",
+        "Date and Time": "2025-01-20 00:54:21",
+        "Items": [
+            {
+                "Car Make": "Toyota",
+                "Car Model": "Corolla",
+                "Year": 2022,
+                "Part": "Tire",
+                "Price": 21624.98
+            }
+        ],
+        "Total Cost": 21624.98
+    },
+    {
+        "User ID": "bde47579-c7a2-450c-adcc-beb61a89f5f0",
+        "Date and Time": "2025-01-20 13:50:42",
+        "Items": [
+            {
+                "Car Make": "Tata",
+                "Car Model": "Nexon",
+                "Year": 2007,
+                "Part": "Radiator",
+                "Price": 13735.07
+            },
+            {
+                "Car Make": "Tata",
+                "Car Model": "Nexon",
+                "Year": 2007,
+                "Part": "Front Bumper",
+                "Price": 13735.07
+            },
+            {
+                "Car Make": "Tata",
+                "Car Model": "Nexon",
+                "Year": 2007,
+                "Part": "Tire",
+                "Price": 13735.07
+            }
+        ],
+        "Total Cost": 41205.21
+    },
+    {
+        "User ID": "b3e262a4-d308-40d1-92eb-5e84c9c76bd9",
+        "Date and Time": "2025-01-21 00:01:18",
+        "Items": [
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2022,
+                "Part": "Side Mirror",
+                "Price": 21624.98
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Amaze",
+                "Year": 2022,
+                "Part": "Front Bumper",
+                "Price": 21624.98
+            }
+        ],
+        "Total Cost": 43249.96
+    },
+    {
+        "User ID": "29e282e9-53d8-417d-9495-bc16e9067ada",
+        "Date and Time": "2025-01-21 16:40:16",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Tiguan",
+                "Year": 2004,
+                "Part": "Rear Bumper",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 14779.150666666666
+    },
+    {
+        "User ID": "efb433c9-e2a7-4e74-9a10-cb3cfcdcce3b",
+        "Date and Time": "2025-01-21 16:43:42",
+        "Items": [
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2014,
+                "Part": "Radiator",
+                "Price": 17153.94
+            },
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2014,
+                "Part": "Windshield",
+                "Price": 17153.94
+            },
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2014,
+                "Part": "Rear Bumper",
+                "Price": 17153.94
+            }
+        ],
+        "Total Cost": 51461.81999999999
+    },
+    {
+        "User ID": "a7e37e98-e88a-46ea-9a69-2a5b801c354f",
+        "Date and Time": "2025-01-21 20:29:52",
+        "Items": [
+            {
+                "Car Make": "Ford",
+                "Car Model": "Endeavour",
+                "Year": 2003,
+                "Part": "Radiator",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Ford",
+                "Car Model": "Endeavour",
+                "Year": 2003,
+                "Part": "Rear Bumper",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 36855.1
+    },
+    {
+        "User ID": "9f597d51-e278-48af-a878-2a552917d3bd",
+        "Date and Time": "2025-01-23 17:45:26",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Polo",
+                "Year": 2004,
+                "Part": "Brake Pads",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 14779.150666666666
+    },
+    {
+        "User ID": "55ad5d15-90c8-4167-b39b-10a89ca541a7",
+        "Date and Time": "2025-01-31 11:37:05",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Tiguan",
+                "Year": 2004,
+                "Part": "Windshield",
+                "Price": 14779.150666666666
+            },
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Tiguan",
+                "Year": 2004,
+                "Part": "Rear Bumper",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 29558.301333333333
+    },
+    {
+        "User ID": "5b7d785a-4624-4a85-938a-d16383281d57",
+        "Date and Time": "2025-02-10 12:17:41",
+        "Items": [
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Alto",
+                "Year": 2001,
+                "Part": "Windshield",
+                "Price": 13287.47
+            }
+        ],
+        "Total Cost": 13287.47
+    },
+    {
+        "User ID": "4f4c515d-294d-4d5e-9b46-6d0a5121a1db",
+        "Date and Time": "2025-02-10 12:43:08",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Polo",
+                "Year": 2001,
+                "Part": "Radiator",
+                "Price": 13287.47
+            }
+        ],
+        "Total Cost": 13287.47
+    },
+    {
+        "User ID": "62d3447d-5f89-45e5-a992-c5c48960a378",
+        "Date and Time": "2025-02-18 10:29:55",
+        "Items": [
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Alto",
+                "Year": 2022,
+                "Part": "Side Mirror",
+                "Price": 21624.98
+            },
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Alto",
+                "Year": 2022,
+                "Part": "Rear Bumper",
+                "Price": 21624.98
+            }
+        ],
+        "Total Cost": 43249.96
+    },
+    {
+        "User ID": "a696714c-1fff-43fe-8299-ba94edede93c",
+        "Date and Time": "2025-02-28 11:35:49",
+        "Items": [
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Swift",
+                "Year": 2004,
+                "Part": "Side Mirror",
+                "Price": 14779.150666666666
+            },
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Swift",
+                "Year": 2004,
+                "Part": "Brake Pads",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 29558.301333333333
+    },
+    {
+        "User ID": "d7b50b9e-8bd5-4640-bda1-b829eef38283",
+        "Date and Time": "2025-03-04 06:18:43",
+        "Items": [
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2002,
+                "Part": "Radiator",
+                "Price": 15387.26
+            },
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2002,
+                "Part": "Tire",
+                "Price": 15387.26
+            },
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2002,
+                "Part": "Front Bumper",
+                "Price": 15387.26
+            },
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2002,
+                "Part": "Headlight Assembly",
+                "Price": 15387.26
+            }
+        ],
+        "Total Cost": 61549.04
+    },
+    {
+        "User ID": "cbd86303-3afe-4ef9-9a3c-ad6d1b1e54a9",
+        "Date and Time": "2025-03-15 15:04:53",
+        "Items": [
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2023,
+                "Part": "Front Bumper",
+                "Price": 18910.39
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2023,
+                "Part": "Side Mirror",
+                "Price": 18910.39
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2023,
+                "Part": "Windshield",
+                "Price": 18910.39
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2023,
+                "Part": "Headlight Assembly",
+                "Price": 18910.39
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2023,
+                "Part": "Brake Pads",
+                "Price": 18910.39
+            }
+        ],
+        "Total Cost": 94551.95
+    },
+    {
+        "User ID": "5162e273-9a25-4f29-81e7-8d7996efd838",
+        "Date and Time": "2025-03-15 15:09:37",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Vento",
+                "Year": 2019,
+                "Part": "Front Bumper",
+                "Price": 15412.15
+            },
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Vento",
+                "Year": 2019,
+                "Part": "Headlight Assembly",
+                "Price": 15412.15
+            }
+        ],
+        "Total Cost": 30824.3
+    },
+    {
+        "User ID": "e1a2d1df-3dd0-468a-8673-ec6bad2d78ad",
+        "Date and Time": "2025-03-15 15:24:00",
+        "Items": [
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Kicks",
+                "Year": 2018,
+                "Part": "Headlight Assembly",
+                "Price": 15098.13
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Kicks",
+                "Year": 2018,
+                "Part": "Front Bumper",
+                "Price": 15098.13
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Kicks",
+                "Year": 2018,
+                "Part": "Tire",
+                "Price": 15098.13
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Kicks",
+                "Year": 2018,
+                "Part": "Side Mirror",
+                "Price": 15098.13
+            }
+        ],
+        "Total Cost": 60392.52
+    },
+    {
+        "User ID": "4ad92bb1-35df-447a-a596-5dc8ca7b3717",
+        "Date and Time": "2025-03-16 23:19:29",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Thar",
+                "Year": 2024,
+                "Part": "Windshield",
+                "Price": 20138.04
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Thar",
+                "Year": 2024,
+                "Part": "Front Bumper",
+                "Price": 20138.04
+            }
+        ],
+        "Total Cost": 40276.08
+    },
+    {
+        "User ID": "a5de8915-2a42-4d9b-98ed-cb801136b1eb",
+        "Date and Time": "2025-04-07 23:10:31",
+        "Items": [
+            {
+                "Car Make": "Tata",
+                "Car Model": "Harrier",
+                "Year": 2015,
+                "Part": "Headlight Assembly",
+                "Price": 16957.25
+            },
+            {
+                "Car Make": "Tata",
+                "Car Model": "Harrier",
+                "Year": 2015,
+                "Part": "Front Bumper",
+                "Price": 16957.25
+            },
+            {
+                "Car Make": "Tata",
+                "Car Model": "Harrier",
+                "Year": 2015,
+                "Part": "Tire",
+                "Price": 16957.25
+            }
+        ],
+        "Total Cost": 50871.75
+    },
+    {
+        "User ID": "7d7ee3f4-452c-45ab-8eeb-29f8d6d12e76",
+        "Date and Time": "2025-04-08 11:51:54",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Scorpio",
+                "Year": 2022,
+                "Part": "Side Mirror",
+                "Price": 21624.98
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Scorpio",
+                "Year": 2022,
+                "Part": "Tire",
+                "Price": 21624.98
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Scorpio",
+                "Year": 2022,
+                "Part": "Windshield",
+                "Price": 21624.98
+            }
+        ],
+        "Total Cost": 64874.94
+    },
+    {
+        "User ID": "4e063c08-5192-4f33-a8ea-1f5f5ddcabe4",
+        "Date and Time": "2025-04-23 14:22:24",
+        "Items": [
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Swift",
+                "Year": 2019,
+                "Part": "Side Mirror",
+                "Price": 15412.15
+            },
+            {
+                "Car Make": "Maruti",
+                "Car Model": "Swift",
+                "Year": 2019,
+                "Part": "Engine Oil",
+                "Price": 15412.15
+            }
+        ],
+        "Total Cost": 30824.3
+    },
+    {
+        "User ID": "b7d8efff-4834-4b4d-9545-407746793333",
+        "Date and Time": "2025-04-23 14:30:56",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Thar",
+                "Year": 2011,
+                "Part": "Headlight Assembly",
+                "Price": 16839.865
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Thar",
+                "Year": 2011,
+                "Part": "Windshield",
+                "Price": 16839.865
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "Thar",
+                "Year": 2011,
+                "Part": "Front Bumper",
+                "Price": 16839.865
+            }
+        ],
+        "Total Cost": 50519.595
+    },
+    {
+        "User ID": "521e8571-2512-4558-9333-ec5516b7a53d",
+        "Date and Time": "2025-04-23 14:39:30",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "XUV500",
+                "Year": 2021,
+                "Part": "Front Bumper",
+                "Price": 15793.96
+            },
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "XUV500",
+                "Year": 2021,
+                "Part": "Tire",
+                "Price": 15793.96
+            }
+        ],
+        "Total Cost": 31587.92
+    },
+    {
+        "User ID": "aea6aedf-d610-424a-9142-98a58f8ad631",
+        "Date and Time": "2025-04-23 14:43:47",
+        "Items": [],
+        "Total Cost": 0.0
+    },
+    {
+        "User ID": "5078088d-14f0-4852-82fd-4468c389f56f",
+        "Date and Time": "2025-04-23 19:44:01",
+        "Items": [
+            {
+                "Car Make": "Mahindra",
+                "Car Model": "XUV500",
+                "Year": 2004,
+                "Part": "Radiator",
+                "Price": 14779.150666666666
+            }
+        ],
+        "Total Cost": 14779.150666666666
+    },
+    {
+        "User ID": "9497c1cc-ff9a-4dec-9eff-847dc1df0b1b",
+        "Date and Time": "2025-04-25 12:24:22",
+        "Items": [
+            {
+                "Car Make": "Hyundai",
+                "Car Model": "i20",
+                "Year": 2023,
+                "Part": "Tire",
+                "Price": 18910.39
+            }
+        ],
+        "Total Cost": 18910.39
+    },
+    {
+        "User ID": "21edce12-c752-453d-9f7a-21daaccbab81",
+        "Date and Time": "2025-04-25 21:19:34",
+        "Items": [
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2017,
+                "Part": "Headlight Assembly",
+                "Price": 15588.08
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2017,
+                "Part": "Tire",
+                "Price": 15588.08
+            },
+            {
+                "Car Make": "Nissan",
+                "Car Model": "Magnite",
+                "Year": 2017,
+                "Part": "Windshield",
+                "Price": 15588.08
+            }
+        ],
+        "Total Cost": 46764.24
+    },
+    {
+        "User ID": "080c3e05-c1dc-477f-92c2-40374e721104",
+        "Date and Time": "2025-04-26 09:39:40",
+        "Items": [
+            {
+                "Car Make": "Honda",
+                "Car Model": "Jazz",
+                "Year": 2021,
+                "Part": "Rear Bumper",
+                "Price": 15793.96
+            },
+            {
+                "Car Make": "Honda",
+                "Car Model": "Jazz",
+                "Year": 2021,
+                "Part": "Headlight Assembly",
+                "Price": 15793.96
+            }
+        ],
+        "Total Cost": 31587.92
+    },
+    {
+        "User ID": "bc52735e-dba5-4f4b-aef2-3b3631c0eed1",
+        "Date and Time": "2025-04-26 10:00:36",
+        "Items": [
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Polo",
+                "Year": 2003,
+                "Part": "Tire",
+                "Price": 18427.55
+            },
+            {
+                "Car Make": "Volkswagen",
+                "Car Model": "Polo",
+                "Year": 2003,
+                "Part": "Radiator",
+                "Price": 18427.55
+            }
+        ],
+        "Total Cost": 36855.1
+    },
+    {
+        "User ID": "65df3432-1004-4291-aaf3-195b39f93060",
+        "Date and Time": "2025-04-26 10:02:18",
+        "Items": [
+            {
+                "Car Make": "Tata",
+                "Car Model": "Nexon",
+                "Year": 2020,
+                "Part": "Engine Oil",
+                "Price": 14531.78
+            }
+        ],
+        "Total Cost": 14531.78
+    },
+    {
+        "User ID": "41180ed3-63df-422b-a5ab-8682d8e0eff8",
+        "Date and Time": "2025-04-26 10:12:41",
+        "Items": [
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2005,
+                "Part": "Engine Oil",
+                "Price": 11478.2215
+            },
+            {
+                "Car Make": "Renault",
+                "Car Model": "Kwid",
+                "Year": 2005,
+                "Part": "Side Mirror",
+                "Price": 11478.2215
+            }
+        ],
+        "Total Cost": 22956.443
+    },
+    {
+        "User ID": "c47c4eda-39ce-4cd6-a414-f06902868173",
+        "Date and Time": "2025-04-26 10:20:07",
+        "Items": [
+            {
+                "Car Make": "Renault",
+                "Car Model": "Duster",
+                "Year": 2002,
+                "Part": "Radiator",
+                "Price": 15387.26
+            },
+            {
+                "Car Make": "Renault",
+                "Car Model": "Duster",
+                "Year": 2002,
+                "Part": "Rear Bumper",
+                "Price": 15387.26
+            }
+        ],
+        "Total Cost": 30774.52
+    }
+]
