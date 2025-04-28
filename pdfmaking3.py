@@ -220,8 +220,7 @@ bills_file = "bills.json"
 def get_gpt4_response(prompt):
     try:
         # Replace with your actual OpenAI API key
-        openai.api_key = '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'
-
+        openai.api_key = ''
         # Request GPT-4 model for response
         response = openai.ChatCompletion.create(
             model="gpt-4o-mini",
